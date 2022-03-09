@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
-    <img alt="mcversion" src="https://media.discordapp.net/attachments/944084787503693824/948376766974656582/mcversion.png" />
+    <img alt="mcversion" src="https://cdn.discordapp.com/attachments/949457309883568218/951258816949928026/Screen_Shot_2022-03-09_at_6.22.49_PM.png" />
   </a>
 
 </p>
