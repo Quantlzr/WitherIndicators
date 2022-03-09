@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/Quantisr/WitherIndicator/releases/latest" target="_blank">
+  <a href="https://github.com/Quantlzr/WitherIndicators/releases/tag/v1.0.1" target="_blank">
     <img alt="version" src="https://cdn.discordapp.com/attachments/944084787503693824/948375359437549629/version.png" />
   </a>
 
