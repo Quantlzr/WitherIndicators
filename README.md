@@ -18,7 +18,7 @@ This detects all 4 bosses from the revamped version of Catacomb Floor 7 (Maxor, 
 ![Example Picture](https://media.discordapp.net/attachments/944084787503693824/948371537810051102/gui.png?width=900&height=506)
 
 ### Why is this useful?
-Due to the recent revamp of floor 7, players are in the dark about the mechanics they may encounter. As such, this mod will help you get a better understanding of what is going on by giving various alerts concerning boss abilities, phases and other indicators.
+Due to the recent revamp of floor 7, players are in the dark about the mechanics they may encounter. As such, this mod will help you get a better understanding of what is going on by giving various alerts concerning boss abilities, phases and other indicators. It also has solvers for all of the new terminals.
 
 ### Is this bannable?
 This mod is completely allowed as it only renders the boss room you are presently occupying.
