@@ -6,9 +6,6 @@
     <img alt="version" src="https://cdn.discordapp.com/attachments/949457309883568218/951258598271504425/Screen_Shot_2022-03-09_at_6.18.30_PM.png" />
   </a>
 
-  <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
-    <img alt="mcversion" src="https://cdn.discordapp.com/attachments/949457309883568218/954186914519470090/Screen_Shot_2022-03-17_at_9.13.48_PM.png" />
-  </a>
 
 </p>
 
